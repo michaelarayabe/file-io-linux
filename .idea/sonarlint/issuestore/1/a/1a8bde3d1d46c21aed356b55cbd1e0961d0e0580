@@ -1,0 +1,10 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "test.txt" 3 times.(‹õ×¨8½ÂæäÆ.
+j
+java:S1128	"HRemove this unused import 'java.nio.file.attribute.BasicFileAttributes'.(“ããÿÿÿÿÿ8á›¢åÆ.
+X	java:S125<"<This block of commented-out lines of code should be removed.(àº¤8æ·¦åÆ.
+]	java:S125F"<This block of commented-out lines of code should be removed.(‰¿«©ùÿÿÿÿ8ãÿÌåÆ.
+b
+java:S1128
+"FRemove this unused import 'java.nio.file.attribute.DosFileAttributes'.(áºÅ8æõåÆ.

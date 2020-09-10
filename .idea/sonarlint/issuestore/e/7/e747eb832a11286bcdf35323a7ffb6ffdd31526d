@@ -1,0 +1,16 @@
+
+E
+java:S1481"(Remove this unused "pwd" local variable.(Ù‘‹à8»±∆Ω∆.
+X	java:S125/"<This block of commented-out lines of code should be removed.(∂˛˚£8ªî«Ω∆.
+Z
+java:S18542"8Remove this useless assignment to local variable "file".(”˚…Á˘ˇˇˇˇ8ãÂ·º∆.
+K
+java:S14812")Remove this unused "file" local variable.(”˚…Á˘ˇˇˇˇ8ãÂ·º∆.
+]	java:S125"<This block of commented-out lines of code should be removed.(ﬁ·‡Øˇˇˇˇˇ8»±∆Ω∆.
+O
+java:S1135G"2Complete the task associated to this TODO comment.(î˙¡∞8ËÈçΩ∆.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ø¶Å®8»±∆Ω∆.
+T
+java:S1854"7Remove this useless assignment to local variable "pwd".(Ù‘‹à8»±∆Ω∆.
+Q
+java:S1144<"/Remove this unused private "toRealPath" method.(ÿõ í˙ˇˇˇˇ8ªî«Ω∆.

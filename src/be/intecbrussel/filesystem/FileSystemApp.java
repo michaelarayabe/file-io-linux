@@ -28,7 +28,7 @@ public class FileSystemApp {
         UserPrincipalLookupService userLookup = fSystem.getUserPrincipalLookupService();
 
         try {
-            System.out.println("Check out this user: " + userLookup.lookupPrincipalByName("MICHAEL'S MACBOOK PRO"));
+            System.out.println("Check out this user: " + userLookup.lookupPrincipalByName("MICHAEL'S_MACBOOK_PRO"));
         } catch (IOException e) {
             e.printStackTrace();
         }
